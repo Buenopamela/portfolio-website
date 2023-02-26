@@ -1,4 +1,4 @@
-# My Portfolio Website
+# My Portfolio Website :woman_technologist:
 ---
 
 Welcome to my portfolio website! Here, you can explore examples of my work as a Frontend Developer. 
