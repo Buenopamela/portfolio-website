@@ -1,4 +1,4 @@
-# My Portfolio Website `:woman_technologist::skin-tone-3::dark_skin_tone:`
+# My Portfolio Website :woman_technologist::skin-tone-3::dark_skin_tone:
 ---
 
 Welcome to my portfolio website! Here, you can explore examples of my work as a Frontend Developer. 
